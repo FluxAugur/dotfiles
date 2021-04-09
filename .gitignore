@@ -106,6 +106,41 @@ Icon^M
 Network Trash Folder
 Temporary Items
 
+# OpenSSL -----------------------------------------------------------------
+
+## Certificate Authority
+*.ca
+
+## Certificate
+*.crt
+
+## Certificate Sign Request
+*.csr
+
+## Certificate
+*.der
+
+## Key database file
+*.kdb
+
+## OSCP request data
+*.org
+
+## PKCS #12
+*.p12
+
+## PEM-encoded certificate data
+*.pem
+
+## Random number seed
+*.rnd
+
+## SSLeay data
+*.ssleay
+
+## S/MIME message
+*.smime
+
 # Tags --------------------------------------------------------------------
 
 # Ignore tags created by etags, ctags, gtags (GNU global) and cscope
